@@ -4,11 +4,11 @@
     { "id": 2, "name": "Projeto12" },
     { "id": 3, "name": "Projeto3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "local": [
+    { "id": 1, "country": "Portugal", "city": "Coimbra" },
+    { "id": 2, "country": "Portugal", "city": "Aveiro" }
   ],
-  "profile": {
-    "name": "typicode"
+  "partner": {
+    "name": "ISEC", "field": "Engineering"
   }
 }
