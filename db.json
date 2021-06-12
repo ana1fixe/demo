@@ -14,9 +14,6 @@
   "description": {
     "name": "Descrição1", "description": "huelelele"
   },
-  "user": {
-    "name": "Ana", "type": "trainee"
-  },
   "tasks": [
     { "id": 1, "text": "description task 1" },
     { "id": 2, "text": "description task 2" },
