@@ -17,9 +17,9 @@
   "user": {
     "name": "Ana", "type": "trainee"
   },
-    "tasks": [
+  "tasks": [
     { "id": 1, "text": "description task 1" },
     { "id": 2, "text": "description task 2" },
     { "id": 3, "text": "description task 3" }
-  ],
+  ]
 }
